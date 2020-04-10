@@ -1,1 +1,12 @@
-/* we will write our css stucture here */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+div#game {
+    height: 600px;
+    width: 800px;
+    margin: 0 auto;
+}

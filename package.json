@@ -1,7 +1,7 @@
 {
   "name": "how-to-make-a-game-javascript-setup",
   "version": "1.0.0",
-  "description": "",
+  "description": "### first steps - run npm init in order to create a package.json which we will use in order to have our dependencies ***Will require node to be installed***",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Enoch2k2/how-to-make-a-game-javascript-setup#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.17.1"
   },
   "devDependencies": {}
 }
